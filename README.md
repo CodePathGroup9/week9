@@ -2,8 +2,9 @@
 
 <img src="http://g.recordit.co/c1vmLIBHK2.gif" width=200><br>
 
-https://docs.google.com/presentation/d/1k8Pi4-8zXBObz7fqLiQtgp8cAqjCBjX7s5Qf8Y0gX9Y/edit#slide=id.g487c3e831e_0_0
+Slide Presentation: https://docs.google.com/presentation/d/1k8Pi4-8zXBObz7fqLiQtgp8cAqjCBjX7s5Qf8Y0gX9Y/edit#slide=id.g487c3e831e_0_0
 
+Pitch Presentation: https://youtu.be/VHWVnVJBzl0
 
 # Week 4
 
